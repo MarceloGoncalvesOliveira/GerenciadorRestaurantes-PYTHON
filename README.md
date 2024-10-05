@@ -4,7 +4,7 @@ Este é um projeto de um gerenciador de restaurantes interativo, desenvolvido co
 ## 🛠 Tecnologias Utilizadas
 - Python
 
-## 📋 Funcionalidades
+## 📋 Funcionalidades 
 - ✅ Cadastro de novos restaurantes com nome e categoria.
 - 📝 Listagem de todos os restaurantes cadastrados com suas informações.
 - 🔄 Alternância do status de um restaurante entre ativo e inativo.
